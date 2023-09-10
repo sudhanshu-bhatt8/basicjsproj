@@ -1,0 +1,21 @@
+*{
+    
+    padding: 0px;
+    margin: 0px ;
+
+}
+body{
+    display: flex;
+}
+.button{
+    display: flex;
+    margin: 2rem;
+    width: 100px;
+    height: 100px ;
+    justify-content: center;
+    align-items: center;
+}
+
+#black{
+    color : white ; 
+}
